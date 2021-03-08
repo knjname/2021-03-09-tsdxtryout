@@ -1,0 +1,12 @@
+{
+  "name": "@my/nodepj",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@my/lib": "*",
+    "ts-node": "^9.1.1"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}

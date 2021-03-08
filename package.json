@@ -1,0 +1,7 @@
+{
+  "name": "2021-03-09-tsdxtryout",
+  "private": true,
+  "author": "knjname",
+  "license": "MIT",
+  "workspaces": ["packages/*"]
+}
