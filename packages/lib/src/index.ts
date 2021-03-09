@@ -1,5 +1,5 @@
 export const sum = (a: number, b: number) => {
-  console.log('This function SHOULD BE incldued by treeshaking.');
+  console.log('This function SHOULD BE included by treeshaking.');
   return a + b;
 };
 
